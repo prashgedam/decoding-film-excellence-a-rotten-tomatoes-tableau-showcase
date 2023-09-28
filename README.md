@@ -1,2 +1,1 @@
-# decoding-film-excellence-a-rotten-tomatoes-tableau-showcase
-decoding film excellence a rotten tomatoes tableau showcase
+# Decoding Film Excellence a Rotten Tomatoes Tableau Showcase
