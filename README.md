@@ -1,5 +1,5 @@
 # Decoding Film Excellence a Rotten Tomatoes Tableau Showcase
-!![Example Image](https://github.com/prashgedam/decoding-film-excellence-a-rotten-tomatoes-tableau-showcase/blob/main/Rotten%20Tomatoes(1).png)](https://public.tableau.com/app/profile/prashnnaki.gedam/viz/DecodingFilmExcellenceARottenTomatoesTableauShowcase/RottenTomatoes)
+[![Example Image](https://github.com/prashgedam/decoding-film-excellence-a-rotten-tomatoes-tableau-showcase/blob/main/Rotten%20Tomatoes(1).png)](https://public.tableau.com/app/profile/prashnnaki.gedam/viz/DecodingFilmExcellenceARottenTomatoesTableauShowcase/RottenTomatoes)
 
 # Overview: Some Markdown text with <span style="color:blue">some *blue* text</span>
 
