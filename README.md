@@ -8,7 +8,7 @@ Objectives:
 
 ## 1. Analyze Film Ratings and Reviews:
 
-   Gather data from Rotten Tomatoes to analyze movie ratings, both from critics and audience reviews, and identify trends in film excellence.
+   Gather data from Rotten Tomatoes to analyze movie ratings, both from critics and audience reviews, & identify trends in film excellence.
 
 ## 2. Identify Factors Influencing Ratings:
 
