@@ -3,7 +3,7 @@
 
 # Overview: Some Markdown text with <span style="color:blue">some *blue* text</span>
 
-The project "Decoding Film Excellence: A Rotten Tomatoes Tableau Showcase" aims to analyze and visualize film excellence using data from Rotten Tomatoes, a popular movie and TV show review aggregation website. The project utilizes Tableau, a powerful data visualization tool, to present insights and patterns related to movie ratings, critical reviews, audience opinions, & other relevant metrics.
+The project "Decoding Film Excellence: A Rotten Tomatoes Tableau Showcase" aims to analyze and visualize film excellence using data from Rotten Tomatoes, a popular movie and TV show review aggregation website. The project utilizes Tableau, a powerful data visualization tool, to present insights & patterns related to movie ratings, critical reviews, audience opinions, & other relevant metrics.
 Objectives:
 
 ## 1. Analyze Film Ratings and Reviews:
